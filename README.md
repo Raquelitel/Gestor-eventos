@@ -14,8 +14,8 @@ Gestor de eventos donde podrás crear, editar y eliminar
 
 ### 💻 Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="React native" width="60" height="40"/>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI" width="60" height="40" alt="Expo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="React native" width="90" height="60"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7l-bQADRV4PzxAz_9GH2aozV3jkHqdlUJbOsIf4Eu_bazCi6UH_UyiAeKer2-s9GafI" width="90" height="60" alt="Expo" /></a>
 
 
 ### 💾 Instalación:
@@ -24,5 +24,5 @@ Gestor de eventos donde podrás crear, editar y eliminar
 
 https://docs.expo.dev/
 
-2. Comienza a codificar! inicia el servidor de desarrollo de webpack `$ npx expo start`
+2. Comienza a codificar! inicia el servidor de desarrollo  `$ npx expo start`
 ###
